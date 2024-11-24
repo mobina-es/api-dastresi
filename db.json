@@ -1,0 +1,737 @@
+{
+  "first-menu": [
+    {
+      "id": 1,
+      "link": "https://google.com",
+      "title": "باشگاه مشتریان"
+    },
+    {
+      "id": 2,
+      "link": "https://google.com",
+      "title": "بلاگ"
+    },
+    {
+      "id": 3,
+      "link": "https://google.com",
+      "title": "ارتباط ما"
+    },
+    {
+      "id": 4,
+      "link": "https://google.com",
+      "title": "درباره ما"
+    }
+  ],
+  "second-menu": [
+    {
+      "id": 1,
+      "link": "https://google.com",
+      "title": "خانه"
+    },
+    {
+      "id": 2,
+      "link": "https://google.com",
+      "title": "لوازم جانبی موبایل و کامپیوتر",
+      "dropdown": [
+        {
+          "id": 1,
+          "link": "https://google.com",
+          "title": "هولدر و نگهدارنده"
+        },
+        {
+          "id": 2,
+          "link": "https://google.com",
+          "title": "تجهیزات ذخیره سازی",
+          "dropdown": [
+            {
+              "id": 1,
+              "link": "https://google.com",
+              "title": "فلش مموری"
+            },
+            {
+              "id": 2,
+              "link": "https://google.com",
+              "title": "کارت حافظه"
+            },
+            {
+              "id": 3,
+              "link": "https://google.com",
+              "title": "هارد اکسترنال"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "link": "https://google.com",
+          "title": "اسپیکر"
+        },
+        {
+          "id": 4,
+          "link": "https://google.com",
+          "title": "ماوس و کیبورد و پدموس"
+        },
+        {
+          "id": 5,
+          "link": "https://google.com",
+          "title": "هندزفری و هدست , میکروفون",
+          "dropdown": [
+            {
+              "id": 1,
+              "link": "https://google.com",
+              "title": "میکروفون"
+            },
+            {
+              "id": 2,
+              "link": "https://google.com",
+              "title": "هندزفری سیم دار"
+            },
+            {
+              "id": 3,
+              "link": "https://google.com",
+              "title": "هدست سیم دار"
+            },
+            {
+              "id": 4,
+              "link": "https://google.com",
+              "title": "هدفون بلوتوث"
+            },
+            {
+              "id": 5,
+              "link": "https://google.com",
+              "title": "هندزفری بلوتوث دو گوش"
+            },
+            {
+              "id": 6,
+              "link": "https://google.com",
+              "title": "هندزفری بلوتوث دور گردنی"
+            },
+            {
+              "id": 7,
+              "link": "https://google.com",
+              "title": "هندزفری بلوتوث تک گوش"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "link": "https://google.com",
+          "title": "پاوربانک و جامپ استارتر"
+        },
+        {
+          "id": 7,
+          "link": "https://google.com",
+          "title": "کابل شارژ",
+          "dropdown": [
+            {
+              "id": 1,
+              "link": "https://google.com",
+              "title": "میکرو یو اس بی"
+            },
+            {
+              "id": 2,
+              "link": "https://google.com",
+              "title": "تایپ سی"
+            },
+            {
+              "id": 3,
+              "link": "https://google.com",
+              "title": "لایتنینگ"
+            },
+            {
+              "id": 4,
+              "link": "https://google.com",
+              "title": "دو سر تایپ سی"
+            },
+            {
+              "id": 5,
+              "link": "https://google.com",
+              "title": "سه کاره"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "link": "https://google.com",
+          "title": "آداپتور و شارژر",
+          "dropdown": [
+            {
+              "id": 1,
+              "link": "https://google.com",
+              "title": "شارژر وایرلس"
+            },
+            {
+              "id": 2,
+              "link": "https://google.com",
+              "title": "شارژر دیواری"
+            },
+            {
+              "id": 3,
+              "link": "https://google.com",
+              "title": "شارژر رومیزی"
+            },
+            {
+              "id": 4,
+              "link": "https://google.com",
+              "title": "شارژر فندکی"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "link": "https://google.com",
+          "title": "دسته بازی و خنک کننده موبایل"
+        },
+        {
+          "id": 10,
+          "link": "https://google.com",
+          "title": "انواع تبدیل برق"
+        },
+        {
+          "id": 11,
+          "link": "https://google.com",
+          "title": "کابل و دانگل انتقال تصویر"
+        },
+        {
+          "id": 12,
+          "link": "https://google.com",
+          "title": "انواع هاب"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "link": "https://google.com",
+      "title": "کابل-مبدل-رابط",
+      "dropdown": [
+        {
+          "id": 1,
+          "link": "https://google.com",
+          "title": "HDMI کابل"
+        },
+        {
+          "id": 2,
+          "link": "https://google.com",
+          "title": "کابل پرینتر"
+        },
+        {
+          "id": 3,
+          "link": "https://google.com",
+          "title": "کابل هارد اکسترنال"
+        },
+        {
+          "id": 4,
+          "link": "https://google.com",
+          "title": "انواع روابط و تبدیل"
+        },
+        {
+          "id": 5,
+          "link": "https://google.com",
+          "title": "AUX کابل"
+        },
+        {
+          "id": 6,
+          "link": "https://google.com",
+          "title": "کابل 2 به 1 صدا"
+        },
+        {
+          "id": 7,
+          "link": "https://google.com",
+          "title": "کابل اپتیکال"
+        },
+        {
+          "id": 8,
+          "link": "https://google.com",
+          "title": "کابل و فیش OTG"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "link": "https://google.com",
+      "title": "لوازم تولید محتوا",
+      "dropdown": [
+        {
+          "id": 1,
+          "link": "https://google.com",
+          "title": "میکروفون"
+        },
+        {
+          "id": 2,
+          "link": "https://google.com",
+          "title": "رینگ و لایت"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "link": "https://google.com",
+      "title": "لوازم شبکه",
+      "dropdown": [
+        {
+          "id": 1,
+          "link": "https://google.com",
+          "title": "مودم-روتر"
+        },
+        {
+          "id": 2,
+          "link": "https://google.com",
+          "title": "هاب شبکه"
+        },
+        {
+          "id": 3,
+          "link": "https://google.com",
+          "title": "مودم همراه"
+        },
+        {
+          "id": 4,
+          "link": "https://google.com",
+          "title": "لوازم جانبی"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "link": "https://google.com",
+      "title": "کنسول بازی و لوازم جانبی",
+      "dropdown": [
+        {
+          "id": 1,
+          "link": "https://google.com",
+          "title": "هندزفری و هدست"
+        },
+        {
+          "id": 2,
+          "link": "https://google.com",
+          "title": "دسته بازی"
+        },
+        {
+          "id": 3,
+          "link": "https://google.com",
+          "title": "موس و کیبورد"
+        },
+        {
+          "id": 4,
+          "link": "https://google.com",
+          "title": "کیف"
+        },
+        {
+          "id": 5,
+          "link": "https://google.com",
+          "title": "کنسول"
+        },
+        {
+          "id": 6,
+          "link": "https://google.com",
+          "title": "شارژر دسته بازی"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "link": "https://google.com",
+      "title": "لوازم خانگی و شخصی"
+    },
+    {
+      "id": 8,
+      "link": "https://google.com",
+      "title": "برندها"
+    }
+  ],
+  "slider-one": [
+    {
+      "id": 1,
+      "image": "https://www.dastresi.com/upload/filemanager/2024/07/06/Artboard-5Artboard-6.png",
+      "title": "50 درصد تخفیف"
+    },
+    {
+      "id": 2,
+      "image": "https://www.dastresi.com/upload/filemanager/2024/05/13/jashnvare.jpg",
+      "title": "جوایز جشنواره"
+    },
+    {
+      "id": 3,
+      "image": "https://www.dastresi.com/upload/filemanager/2023/12/24/banner-dastresi-1%20(1).png",
+      "title": "محصولات پاورولوژی"
+    },
+    {
+      "id": 4,
+      "image": "https://www.dastresi.com/upload/filemanager/2023/12/24/banner-dastresi-2-min.png",
+      "title": "قیمت مناسب ها"
+    },
+    {
+      "id": 5,
+      "image": "https://www.dastresi.com/upload/filemanager/2023/12/24/banner-dastresi-4-min.png",
+      "title": "کابل شارژ موبایل"
+    }
+  ],
+  "DayOff": [
+    {
+      "id": 1,
+      "link": "https://google.com",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/09/17/BOOKHOOR-11.jpg",
+      "title": "دستگاه بخور سرد مدل W5000",
+      "off": "100,000",
+      "price": "297,000",
+      "priceSale": "197,000"
+    },
+    {
+      "id": 2,
+      "link": "https://google.com",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/09/01/ANKER1259-11.jpg",
+      "title": "پاوربانک 10000 میلی آمپر 30 واتی انکر مدل Anker A1259",
+      "off": "300,000",
+      "price": "2,750,000",
+      "priceSale": "2,450,000"
+    },
+    {
+      "id": 3,
+      "link": "https://google.com",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/07/31/WIRLESS-CHARG-11.jpg",
+      "title": "ولدر رومیزی وایرلس شارژ مگ سیف پاورولوژی مدل Powerology PMHDWCM",
+      "off": "500,000",
+      "price": "2,397,000",
+      "priceSale": "1,897,000"
+    },
+    {
+      "id": 4,
+      "link": "https://google.com",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/07/29/mcdodo-0230-11.jpg",
+      "title": "پاوربانک 10000 میلی آمپر 33 واتی مک دودو مدل Mcdodo MC-0231",
+      "off": "200,000",
+      "price": "1,490,000",
+      "priceSale": "1,290,000"
+    },
+    {
+      "id": 5,
+      "link": "https://google.com",
+      "image": "https://www.dastresi.com/upload/filemanager/2023/02/25/P6BPJBK-1.jpg",
+      "title": "مخلوط کن 6 تیغه پاورولوژی جویسر شارژی مدل Powerology P6BPJBK",
+      "off": "105,000",
+      "price": "2,002,000",
+      "priceSale": "1,897,000"
+    }
+  ],
+  "slider-two": [
+    {
+      "id": 1,
+      "title": "لوازم گیمینگ",
+      "image": "https://www.dastresi.com/upload/filemanager/2023/04/20/gaming.png"
+    },
+    {
+      "id": 2,
+      "title": "کابل شارژ",
+      "image": "https://www.dastresi.com/upload/filemanager/2023/04/20/cable.png"
+    },
+    {
+      "id": 3,
+      "title": "آداپتور و شارژر",
+      "image": "https://www.dastresi.com/upload/filemanager/2023/04/20/adaptor.png"
+    },
+    {
+      "id": 4,
+      "title": "پاوربانک و لوازم",
+      "image": "https://www.dastresi.com/upload/filemanager/2023/04/20/powerbank.png"
+    },
+    {
+      "id": 5,
+      "title": "هندزفری و هدست",
+      "image": "https://www.dastresi.com/upload/filemanager/2023/04/20/handsfree.png"
+    },
+    {
+      "id": 6,
+      "title": "هولدر و نگهدارنده",
+      "image": "https://www.dastresi.com/upload/filemanager/2023/04/20/Holder%20Negahdarande.png"
+    },
+    {
+      "id": 7,
+      "title": "مبدل و رابط",
+      "image": "https://www.dastresi.com/upload/filemanager/2023/04/20/mobadel%20o%20rabet.png"
+    },
+    {
+      "id": 8,
+      "title": "باتری",
+      "image": "https://www.dastresi.com/upload/filemanager/2023/04/20/battery.png"
+    }
+  ],
+  "slider-three": [
+    {
+      "id": 1,
+      "link": "https://google.com",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/06/26/BY-K3-11.jpg",
+      "name": "کابل - مبدل - رابط ",
+      "title": "کابل تبدیل مادگی TRS به لایتنینگ ب...",
+      "price": "490,000"
+    },
+    {
+      "id": 2,
+      "link": "https://google.com",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/06/26/BY-K4-11.jpg",
+      "name": "کابل - مبدل - رابط ",
+      "title": " کابل تبدیل مادگی TRS به Type C بوی...",
+      "price": "880,000"
+    },
+    {
+      "id": 3,
+      "link": "https://google.com",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/06/23/PPBCHA31-1156.jpg",
+      "name": "پاوربانک و جامپ استارتر",
+      "title": "پاورژنراتور 150 واتی مینی 32000 می... ",
+      "off": "9,140,000",
+      "price": "8,540,000"
+    },
+    {
+      "id": 4,
+      "link": "https://google.com",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/06/19/BSW-0011-33.jpg",
+      "name": "شارژر وایرلس",
+      "title": " پد وایرلس شارژ 3 کاره بیسوس مدل Ba...",
+      "price": "3,128,000"
+    },
+    {
+      "id": 5,
+      "link": "https://google.com",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/06/18/Porodo-PBFCH030-22.jpg",
+      "name": "پاوربانک و جامپ استارتر",
+      "title": "پاوربانک و چراغ قوه 10000 میلی آمپ... ",
+      "price": "1,290,000"
+    },
+    {
+      "id": 6,
+      "link": "https://google.com",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/05/15/7220EUFY-11.jpg",
+      "name": "لوازم خانگی و شخصی",
+      "title": "ظرف آب حیوانات خانگی انکر Anker eu...",
+      "price": "5,695,000"
+    },
+    {
+      "id": 7,
+      "link": "https://google.com",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/04/13/POWEROLOGY-PLARSPHBK11.jpg",
+      "name": "هولدر و نگهدارنده",
+      "title": "هولدر رومیزی پاورولوژی مدل Powerol..",
+      "price": "2,060,000"
+    },
+    {
+      "id": 8,
+      "link": "https://google.com",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/01/10/4NC-11.jpg",
+      "name": "هندزفری بلوتوث دو گوش",
+      "title": "کاور سیلیکونی هندزفری بلوتوثی مدل ...",
+      "price": "125,000"
+    }
+  ],
+  "why": [
+    {
+      "id": 1,
+      "image": "https://www.dastresi.com/images/icons/icon2.png",
+      "title": "مشاوره تخصصی برای خرید محصول",
+      "answer": "برای خرید هر محصول با تیم دسترسی در ارتباط باشید تا بهترین انتخاب رو انجام دهید."
+    },
+    {
+      "id": 2,
+      "image": "https://www.dastresi.com/images/icons/icon1.png",
+      "title": "قیمت مناسب با بالاترین کیفیت",
+      "answer": "گروه دسترسی در تلاش است که کالای با کیفیت را با مناسب‌ترین قیمت به دست شما برساند."
+    },
+    {
+      "id": 3,
+      "image": "https://www.dastresi.com/images/icons/icon3.png",
+      "title": "ارسال سریع",
+      "answer": "ارسال از طریق تیپاکس، پست پیشتاز و پیک موتوری (ویژه تهران) صورت می گیرد."
+    },
+    {
+      "id": 4,
+      "image": "https://www.dastresi.com/images/icons/icon4.png",
+      "title": "امکان خرید حضوری",
+      "answer": "مشتری گرامی جهت خرید حضوری می‌توانید به آدرس مندرج در پایین سایت مراجعه نمایید."
+    }
+  ],
+  "slider-four": [
+    {
+      "id": 1,
+      "link": "https://google.com",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/10/23/battrey-xiaomi-NIM-1161.jpg",
+      "name": "باتری آلکالاین",
+      "title": "باتری نیم قلم 10 تایی شیائومی مدل ...",
+      "price": "189,000"
+    },
+    {
+      "id": 2,
+      "link": "https://google.com",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/10/23/battrey-xiaomi-11.jpg",
+      "name": "باتری آلکالاین",
+      "title": " باتری قلمی 10تایی شیائومی مدل Xiao...",
+      "price": "189,000"
+    },
+    {
+      "id": 3,
+      "link": "https://google.com",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/10/19/Untitled-1.jpg",
+      "name": "ماوس و کیبورد و پدموس",
+      "title": "کیبورد بلوتوثی مافی مدل Mofii Phoe...  ",
+      "price": "2,540,000"
+    },
+    {
+      "id": 4,
+      "link": "https://google.com",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/10/19/POMP47-22.jpg",
+      "name": "پاوربانک و جامپ استارتر",
+      "title": " جامپ استارتر و پمپ باد پاورولوژی م...",
+      "price": "5,900,000"
+    },
+    {
+      "id": 5,
+      "link": "https://google.com",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/10/14/mophie-401307720-11.jpg",
+      "name": "شارژر رومیزی",
+      "title": "شارژر رومیزی وایرلس مگ سیف موفی مد...",
+      "price": "2,200,000"
+    },
+    {
+      "id": 6,
+      "link": "https://google.com",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/10/12/PPHB45-11.jpg",
+      "name": "پاوربانک و جامپ استارتر",
+      "title": "شارژر دیواری و پاوربانک وایرلس 100... ",
+      "price": "2,950,000"
+    },
+    {
+      "id": 7,
+      "link": "https://google.com",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/09/28/LDNIO-Y3-11.jpg",
+      "name": "انواع گجت های جذاب",
+      "title": "شارژر رومیزی وایرلس و چراغ رومیزی ...",
+      "price": "877,000"
+    },
+    {
+      "id": 8,
+      "link": "https://google.com",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/10/02/0088-1.jpg",
+      "name": "هندزفری بلوتوث دو گوش",
+      "title": "هندزفری بلوتوثی ورزشی القایی پاورو...",
+      "price": "2,550,000"
+    },
+    {
+      "id": 9,
+      "link": "https://google.com",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/09/28/ANKER-8757-11.jpg",
+      "name": "دو سر تایپ سی",
+      "title": "کابل شارژ دوسر تایپ سی 1.8 متری ان...",
+      "price": "545,000"
+    }
+  ],
+  "slider-five": [
+    {
+      "id": 1,
+      "title": "انکر",
+      "image": "https://www.dastresi.com/upload/filemanager/2022/02/24/logo-1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "آینوبن",
+      "image": "https://www.dastresi.com/upload/filemanager/2022/02/22/inoben.jpg"
+    },
+    {
+      "id": 3,
+      "title": "راوپاور",
+      "image": "https://www.dastresi.com/upload/filemanager/2022/02/24/Untitled-159.jpg"
+    },
+    {
+      "id": 4,
+      "title": "مک دودو",
+      "image": "https://www.dastresi.com/upload/filemanager/2022/02/26/H64c19886758b40378c31d5f46c5ae984A.jpg"
+    },
+    {
+      "id": 5,
+      "title": "پرووان",
+      "image": "https://www.dastresi.com/upload/filemanager/2022/03/03/logo.jpg"
+    },
+    {
+      "id": 6,
+      "title": "کملیون",
+      "image": "https://www.dastresi.com/upload/filemanager/2022/03/07/logp.jpg"
+    },
+    {
+      "id": 7,
+      "title": "دای هارد",
+      "image": "https://www.dastresi.com/upload/filemanager/2022/04/17/diehard%20logo.jpg"
+    },
+    {
+      "id": 8,
+      "title": "نزتک",
+      "image": "https://www.dastresi.com/upload/filemanager/2022/04/12/logo.jpg"
+    },
+    {
+      "id": 9,
+      "title": "پاورلوژی",
+      "image": "https://www.dastresi.com/upload/filemanager/2022/03/17/logo.jpg"
+    }
+  ],
+  "slider-six": [
+    {
+      "id": 1,
+      "title": "راهنمای تشخیص شارژر اصلی آیفون ",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/10/23/fake-or-original-iphone-charger-dastresi-Artboard%201.jpg"
+    },
+    {
+      "id": 2,
+      "title": "چرا باید از ماساژور چشم استفاده کنید؟",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/10/20/eye-massager-dastresi-Artboard%201%20copy%203.jpg"
+    },
+    {
+      "id": 3,
+      "title": "شارژر بی سیم اپل چگونه کار می کند",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/10/17/How-does-a-wireless-charger-work-dastresi-Artboard%201.jpg"
+    },
+    {
+      "id": 4,
+      "title": "فروشگاه لوازم جانبی تهران",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/10/15/accessories-mobile-store-dastresiArtboard%201.jpg"
+    },
+    {
+      "id": 5,
+      "title": "تفاوت هدفون و هدست و هندزفری",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/10/14/handsfree-and-headset-dastresiArtboard%201.jpg"
+    },
+    {
+      "id": 6,
+      "title": "بهترین هارد اکسترنال ssd",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/11/03/ssd-external-dastresi-Artboard%201%20copy%203.jpg"
+    },
+    {
+      "id": 7,
+      "title": "خرید بهترین ساعت هوشمند صفحه گرد",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/10/31/round-screen-smart-watch-dastresiArtboard%201%20copy.jpg"
+    },
+    {
+      "id": 8,
+      "title": "بهترین پاوربانک پاورولوژی",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/10/25/best-powerology-power-bank-dastresiArtboard%201%20copy%202.jpg"
+    }
+  ],
+  "footer": [
+    {
+      "id": 1,
+      "title": "باشگاه مشتریان"
+    },
+    {
+      "id": 2,
+      "title": "سوالات متداول"
+    },
+    {
+      "id": 3,
+      "title": "بلاگ"
+    },
+    {
+      "id": 4,
+      "title": "شرایط و قوانین"
+    },
+    {
+      "id": 5,
+      "title": "ارتباط ما"
+    },
+    {
+      "id": 6,
+      "title": "درباره ما"
+    }
+  ]
+}
